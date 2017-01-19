@@ -21,7 +21,7 @@
         <repository>
             <id>trancemountain</id>
             <name>trance-mountain-artifacts</name>
-            <url>https://github.com/trancemountain/trance-mountain-artifacts/raw/master/</url>
+            <url>https://github.com/trancemountain/trance-mountain-artifacts/raw/develop/</url>
         </repository>
     </repositories>
 
